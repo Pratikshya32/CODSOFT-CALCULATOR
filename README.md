@@ -59,10 +59,6 @@ Double click index.html to run it in your browser
 
 No additional setup required.
 
-📸 Preview
-
-(Add a screenshot here if you want — optional but recommended)
-
 📌 Future Improvements
 
 Add keyboard support
